@@ -1,5 +1,5 @@
 # DIP-Tumor_Classification
-A Brain Tumor Classification Project for Digital Image Processing class at Georgia Tech.
+A Brain Tumor Classification Project for Digital Image Processing class at GT.
 
 The file main_classifier.py and all others are pretty much the same except I add Low-Pass filter or HPF to the images. 
 Here are the descriptions of files we have: 
